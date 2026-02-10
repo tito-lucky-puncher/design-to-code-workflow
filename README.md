@@ -85,7 +85,7 @@ Install these four tools on your machine:
 4. **GitHub account**: [github.com](https://github.com) — where your project lives online
 5. **Figma MVP plugin**: Install from Figma Community — bridges your designs to code
 
-> **Tip:** To check if Node.js and Git are already installed, open Cursor's terminal (`Ctrl+`` ` or `Cmd+`` `) and type `node -v` and `git -v`. If you see version numbers, you're good.
+> **Tip:** To check if Node.js and Git are already installed, open Cursor's terminal (`Ctrl+`K` ` or `Cmd+`K` `) and type `node -v` and `git -v`. If you see version numbers, you're good.
 
 ### Step 3.2 — Create the Astro Project
 
